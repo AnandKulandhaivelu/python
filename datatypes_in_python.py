@@ -1,3 +1,4 @@
+print("This is all about the data types in python")
 # Number data type:
 
 # integer type:
@@ -88,3 +89,4 @@ print(d1[2])
 d1[3]='java'
 print(d1)
 
+print("This is all about the data types in python")
