@@ -21,6 +21,7 @@ print(type(c))
 s1="welcome"
 s2="admin"
 
+print(s1)
 print(type(s1))
 # output : <class 'str'>
 
